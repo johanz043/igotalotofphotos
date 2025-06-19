@@ -1,2 +1,2 @@
 # igotalotofphotos
-Website extension of my photography Instagram page @igotalotofphotos
+This is the prototype of igotalotofphotos
